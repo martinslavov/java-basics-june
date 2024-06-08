@@ -13,6 +13,7 @@ public class _2_Numbers1to10 {
         System.out.println(8);
         System.out.println(9);
         System.out.println(10);
+
     }
 
 }

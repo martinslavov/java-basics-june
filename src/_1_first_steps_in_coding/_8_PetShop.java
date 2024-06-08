@@ -17,5 +17,6 @@ public class _8_PetShop {
 
         System.out.println(price + "");
 
+
     }
 }

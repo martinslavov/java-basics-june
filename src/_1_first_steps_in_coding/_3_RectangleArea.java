@@ -15,5 +15,6 @@ public class _3_RectangleArea {
 
         System.out.println(area);
 
+
     }
 }

@@ -17,5 +17,6 @@ public class _6_ConcatenateData {
 
         System.out.printf("You are %s %s, a %d-years old person from %s.", firstName, lastName, age, town);
 
+
     }
 }

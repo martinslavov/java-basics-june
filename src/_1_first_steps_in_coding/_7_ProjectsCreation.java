@@ -13,5 +13,6 @@ public class _7_ProjectsCreation {
 
         System.out.printf("The architect %s will need %d hours to complete %d project/s.", name, hours, numberOfProjects );
 
+
     }
 }

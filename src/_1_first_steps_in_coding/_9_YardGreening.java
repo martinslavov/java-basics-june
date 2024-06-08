@@ -20,5 +20,6 @@ public class _9_YardGreening {
          System.out.printf("The final price is: %.2f lv.%n", sumAfterDiscount);
          System.out.printf("The discount is: %.2f lv.", discount);
 
+
     }
 }
