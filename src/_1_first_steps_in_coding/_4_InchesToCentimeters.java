@@ -13,8 +13,6 @@ public class _4_InchesToCentimeters {
 
         System.out.println(result);
 
-        // ще го вземем по-нататък
-        // char c = scanner.next().charAt(0);
 
     }
 }
