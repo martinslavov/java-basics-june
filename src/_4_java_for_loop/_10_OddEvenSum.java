@@ -11,7 +11,7 @@ public class _10_OddEvenSum {
 
         int numbersSumOfEvenPositions = 0;
         int numbersSumOfOddPositions = 0;
-        
+
         for (int position = 0; position < n; position++) {
 
             int currentNumber = Integer.parseInt(scanner.nextLine());
